@@ -1,11 +1,11 @@
-# TripBooking AI Frontend Assignment – [Your Name]
+# TripBooking AI Frontend Assignment – [TripBooking ]
 
 ## Overview
 This repository contains the frontend implementation for the **Software Engineering Intern (Frontend)** take-home assignment at TripBooking AI. The project is a pixel-perfect, fully responsive landing page built with **React** and **Next.js**, based precisely on the provided Figma design.
 
 ## Live Deployment
-- **Vercel / Netlify URL:** `[Insert Live Link Here]`
-- **Repository URL:** `[Insert Public GitHub Link Here]`
+- **Netlify URL:** `[https://cool-daifuku-e78363.netlify.app]`
+- **Repository URL:** `[https://github.com/Sadman-Sakib-12/Tripbooking-ai]`
 
 ## Features Implemented
 - **High-Fidelity UI Accuracy**: The UI closely matches the provided Figma design, capturing all colors, typography, spacing, and micro-interactions.
